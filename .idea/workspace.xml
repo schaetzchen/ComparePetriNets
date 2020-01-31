@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ComparePetriNets:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d69dd4f-7338-41ed-bc66-64745ccbf5a8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ComparePetriNets" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GUI/ConsoleApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="174" column="127" selection-start-line="174" selection-start-column="127" selection-end-line="174" selection-end-column="127" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#main#0;class#ConsoleApplication#0" />
+                <element signature="method#initParams#0;class#ConsoleApplication#0" />
+                <element signature="method#getAlgNumber#0;class#ConsoleApplication#0" />
+                <element signature="method#initializeFiles#0;class#ConsoleApplication#0" />
+                <element signature="method#parseFiles#0;class#ConsoleApplication#0" />
+                <element signature="method#compareTwoNets#0;class#ConsoleApplication#0" />
+                <element signature="method#writeToFile#0;class#ConsoleApplication#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ARC</find>
+      <find>best</find>
+      <find>be</find>
+      <find>NaN</find>
+      <find>adda</find>
+      <find>addall</find>
+      <find>arcty</find>
+      <find>boolea</find>
+      <find>layou</find>
+      <find>layo</find>
+      <find>pnml</find>
+      <find>erro</find>
+      <find>doubl</find>
+      <find>integ</find>
+      <find>pnmlf</find>
+      <find>nextbutton1</find>
+      <find>textarea3</find>
+      <find>error</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\User\Desktop\cp_3\ComparePetriNets\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/PetriNetPackage/ObjectID.java" />
+        <option value="$PROJECT_DIR$/src/PetriNetPackage/PetriNet.java" />
+        <option value="$PROJECT_DIR$/src/PetriNetPackage/Marking.java" />
+        <option value="$PROJECT_DIR$/src/PetriNetPackage/NodeID.java" />
+        <option value="$PROJECT_DIR$/src/PetriNetPackage/Arc.java" />
+        <option value="$PROJECT_DIR$/src/PetriNetPackage/PnmlOwnParser.kt" />
+        <option value="$PROJECT_DIR$/src/PetriNetPackage/PetrinetNode.java" />
+        <option value="$PROJECT_DIR$/src/Environment/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/IMapping.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/Transition.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/Place.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/Triple.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/exhAlg.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/PNNodeTriple.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/PetriNet.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/Mapping.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/ProcHeuristicAlg.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/DummyNode.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/NodeSimilarity.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/petrinet/PetrinetID.java" />
+        <option value="$PROJECT_DIR$/src/environment/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Program.java" />
+        <option value="$PROJECT_DIR$/src/GUI/FirstGUI.java" />
+        <option value="$PROJECT_DIR$/src/GUI/PNMLFileFilter.java" />
+        <option value="$PROJECT_DIR$/src/GUI/someform.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Form.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Form.form" />
+        <option value="$PROJECT_DIR$/src/GUI/someform.form" />
+        <option value="$PROJECT_DIR$/src/GUI/form.form" />
+        <option value="$PROJECT_DIR$/src/GUI/MainGUIClass1.java" />
+        <option value="$PROJECT_DIR$/src/GUI/namename.form" />
+        <option value="$PROJECT_DIR$/src/environment/Runner.java" />
+        <option value="$PROJECT_DIR$/src/GUI/ApplicationGUI.form" />
+        <option value="$PROJECT_DIR$/src/GUI/ComparisonResult.java" />
+        <option value="$PROJECT_DIR$/src/GUI/MainGUIClass.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/NodeID.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/AlgorithmAbstract.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/ObjectID.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/AStarAlg.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/ExhAlgWPruning.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/GraphSimilarity.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/GreedyAlg.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/PNNodeTuple.java" />
+        <option value="$PROJECT_DIR$/src/GUI/ConsoleApplication.java" />
+        <option value="$PROJECT_DIR$/src/GUI/DisabledEditingJTable.java" />
+        <option value="$PROJECT_DIR$/src/GUI/ApplicationGUI.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/Arc.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/PetrinetNode.java" />
+        <option value="$PROJECT_DIR$/src/petrinet/PnmlOwnParser.kt" />
+        <option value="$PROJECT_DIR$/src/algorithms/ExhAlgAbstract.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="351" />
+    <option name="y" value="-21" />
+    <option name="width" value="758" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ComparePetriNets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComparePetriNets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComparePetriNets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComparePetriNets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComparePetriNets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComparePetriNets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComparePetriNets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComparePetriNets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComparePetriNets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComparePetriNets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComparePetriNets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComparePetriNets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="petrinet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="116" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="left" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="197" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ApplicationGUI">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.ApplicationGUI" />
+      <module name="ComparePetriNets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.ConsoleApplication" />
+      <module name="ComparePetriNets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainGUIClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.MainGUIClass" />
+      <module name="ComparePetriNets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="environment.TestClass" />
+      <module name="ComparePetriNets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="environment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.MainGUIClass" />
+      <item itemvalue="Application.ApplicationGUI" />
+      <item itemvalue="Application.ConsoleApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationGUI" />
+        <item itemvalue="Application.ConsoleApplication" />
+        <item itemvalue="Application.MainGUIClass" />
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d69dd4f-7338-41ed-bc66-64745ccbf5a8" name="Default" comment="" />
+      <created>1554564713424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554564713424</updated>
+      <workItem from="1563287776324" duration="852000" />
+      <workItem from="1573501598833" duration="236000" />
+      <workItem from="1580467461301" duration="760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1848000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49331105" visible="true" weight="0.25256222" />
+      <window_info id="Structure" order="1" weight="0.24962178" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50668895" side_tool="true" weight="0.24130106" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943144" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20806451" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969743" weight="0.45317724" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943144" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32943144" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.39966556" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
+      <window_info anchor="bottom" id="Statistic" order="11" weight="1.0" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943144" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2090301" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4969743" weight="0.40301004" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32943144" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.39966556" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32943144" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32943144" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/environment/TestClass.java</url>
+          <line>14</line>
+          <properties class="environment.TestClass" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/petrinet/PnmlOwnParser.kt</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/org/w3c/dom/Element.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26146">
+          <caret line="229" column="9" lean-forward="true" selection-start-line="229" selection-start-column="9" selection-end-line="229" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.exe.vmoptions" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/Component.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/table/TableColumn.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/JTable.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/JFrame.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/JLabel.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/someform.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/Form.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/someform.form" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/form.form" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/MainGUIClass1.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/namename.form" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/awt/FlowLayout.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/File.java" />
+    <entry file="file://$PROJECT_DIR$/src/environment/TestClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/fooorm.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/fooorm.form" />
+    <entry file="file://$PROJECT_DIR$/src/environment/Runner.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/org/w3c/dom/Document.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/xml/parsers/DocumentBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/MainGUIClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/GUI/ApplicationGUI.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/AlgorithmAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/ExhAlgWPruning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+          <folding>
+            <element signature="method#ExhAlgWPruning#2;class#ExhAlgWPruning#0" />
+            <element signature="method#ExhAlgWPruning#3;class#ExhAlgWPruning#0" />
+            <element signature="method#step#0;class#ExhAlgWPruning#0" />
+            <element signature="method#initializeUnfinished#0;class#ExhAlgWPruning#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/GraphSimilarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="119" column="1" selection-end-line="119" selection-end-column="1" />
+          <folding>
+            <element signature="method#getDomainAndCodomain#0;class#GraphSimilarity#0" />
+            <element signature="method#updateSubnAndSkipn#0;class#GraphSimilarity#0" />
+            <element signature="method#updateSkipe#0;class#GraphSimilarity#0" />
+            <element signature="method#getSimilaritySum#0;class#GraphSimilarity#0" />
+            <element signature="method#getGraphEditDistance#0;class#GraphSimilarity#0" />
+            <element signature="method#getGraphEditSimilarity#0;class#GraphSimilarity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/GreedyAlg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="84" column="1" selection-end-line="84" selection-end-column="1" />
+          <folding>
+            <element signature="method#GreedyAlg#0;class#GreedyAlg#0" />
+            <element signature="method#GreedyAlg#1;class#GreedyAlg#0" />
+            <element signature="method#initializeMapping#0;class#GreedyAlg#0" />
+            <element signature="method#removeElementsFromSet#0;class#GreedyAlg#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/Mapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/NodeSimilarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="58" column="1" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="method#getSim#0;class#NodeSimilarity#0" />
+            <element signature="method#minDistance#0;class#NodeSimilarity#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/PNNodeTuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/ProcHeuristicAlg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="13" selection-end-line="127" selection-end-column="1" />
+          <folding>
+            <element signature="method#ProcHeuristicAlg#2;class#ProcHeuristicAlg#0" />
+            <element signature="method#ProcHeuristicAlg#3;class#ProcHeuristicAlg#0" />
+            <element signature="method#step#0;class#ProcHeuristicAlg#0" />
+            <element signature="method#initializeUnfinished#0;class#ProcHeuristicAlg#0" />
+            <element signature="method#getNodesWithEmptyPreset#0;class#ProcHeuristicAlg#0" />
+            <element signature="method#getPostset#0;class#ProcHeuristicAlg#0" />
+            <element signature="method#getSetsIntersection#0;class#ProcHeuristicAlg#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/ComparisonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/DisabledEditingJTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" lean-forward="true" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/PNMLFileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/ApplicationGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="936" column="5" selection-end-line="937" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/Arc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/DummyNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/Marking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/NodeID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/PnmlOwnParser.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/ObjectID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/PetriNet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="60" selection-end-line="83" selection-end-column="1" />
+          <folding>
+            <element signature="method#PetriNet#0;class#PetriNet#0" />
+            <element signature="method#addTransition#0;class#PetriNet#0" />
+            <element signature="method#addTransition#1;class#PetriNet#0" />
+            <element signature="method#addPlace#0;class#PetriNet#0" />
+            <element signature="method#addPlace#1;class#PetriNet#0" />
+            <element signature="method#addArc#0;class#PetriNet#0" />
+            <element signature="method#addResetArc#0;class#PetriNet#0" />
+            <element signature="method#addInhibitorArc#0;class#PetriNet#0" />
+            <element signature="method#getNodes#0;class#PetriNet#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/PetrinetID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/PetrinetNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="62" column="27" selection-end-line="77" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/Place.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/petrinet/Transition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/AStarAlg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="method#AStarAlg#0;class#AStarAlg#0" />
+            <element signature="method#AStarAlg#1;class#AStarAlg#0" />
+            <element signature="method#AStarAlg#2;class#AStarAlg#0" />
+            <element signature="method#AStarAlg#3;class#AStarAlg#0" />
+            <element signature="method#initializeMapping#0;class#AStarAlg#0" />
+            <element signature="method#createOpenSet#0;class#AStarAlg#0" />
+            <element signature="method#selectMappingWithMaxGES#0;class#AStarAlg#0" />
+            <element signature="method#getDomain#0;class#AStarAlg#0" />
+            <element signature="method#getCodomain#0;class#AStarAlg#0" />
+            <element signature="method#selectNodeNotBelongingToSet#0;class#AStarAlg#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/ExhAlgAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/ConsoleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="174" column="127" selection-start-line="174" selection-start-column="127" selection-end-line="174" selection-end-column="127" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#ConsoleApplication#0" />
+            <element signature="method#initParams#0;class#ConsoleApplication#0" />
+            <element signature="method#getAlgNumber#0;class#ConsoleApplication#0" />
+            <element signature="method#initializeFiles#0;class#ConsoleApplication#0" />
+            <element signature="method#parseFiles#0;class#ConsoleApplication#0" />
+            <element signature="method#compareTwoNets#0;class#ConsoleApplication#0" />
+            <element signature="method#writeToFile#0;class#ConsoleApplication#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ComparePetriNets:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>stdlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ComparePetriNets</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
